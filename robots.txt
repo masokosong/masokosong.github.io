@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://masokosong.github.io/sitemap.html.gz
+Sitemap: https://masokosong.github.io/app/sitemap.html.gz
+Sitemap: https://masokosong.github.io/assets/sitemap.html.gz
+Sitemap: https://masokosong.github.io/css/sitemap.html.gz
+Sitemap: https://masokosong.github.io/includes/sitemap.html.gz
+Sitemap: https://masokosong.github.io/item/sitemap.html.gz
+Sitemap: https://masokosong.github.io/src/sitemap.html.gz
